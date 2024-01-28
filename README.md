@@ -24,3 +24,10 @@ The self-serving approach of managers not only undermines employee well-being bu
 To address this problem, organizations need to prioritize employee well-being and create a healthy work environment. Managers should be trained in effective leadership, empathy, and the importance of work-life balance. Recognizing and appreciating the efforts of employees can foster a positive culture where individuals feel valued and motivated to perform at their best.
 
 In conclusion, the detrimental impact of managers in India extends beyond my brother's experience. It affects employees nationwide, leading to increased stress levels, compromised well-being, and reduced productivity. By acknowledging and rectifying these issues, organizations can cultivate an environment that nurtures employee growth, engagement, and overall success.
+
+
+# OUTPUTS
+
+## PowerBI
+
+<img align="center" alt="output" width="400" src="powerBI.jpge">
