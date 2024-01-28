@@ -30,4 +30,4 @@ In conclusion, the detrimental impact of managers in India extends beyond my bro
 
 ## PowerBI
 
-<img align="center" alt="output" width="400" src="outputs/powerBI.jpge">
+<img align="center" alt="output" width="400" src="Outputs/powerBI.jpeg">
