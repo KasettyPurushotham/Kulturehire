@@ -34,8 +34,8 @@ In conclusion, the detrimental impact of managers in India extends beyond my bro
 
 ## EXCEL
 
-<img align="center" alt="output" width="400" width="800" height="300"" src="Outputs/Orders(Excel).jpeg">
+<h1><img align="center" alt="output" width="400" width="800" height="300"" src="Outputs/Orders(Excel).jpeg"></h1>
 
-<img align="center" alt="output" width="400" width="800" height="300"" src="Outputs/Cs(Excel).jpeg">
+<h1><img align="center" alt="output" width="400" width="800" height="300"" src="Outputs/Cs(Excel).jpeg"></h1>
 
-<img align="center" alt="output" width="400" width="800" height="300"" src="Outputs/Finance(Excel).jpeg">
+<h1><img align="center" alt="output" width="400" width="800" height="300"" src="Outputs/Finance(Excel).jpeg"></h1>
